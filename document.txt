@@ -1,3 +1,4 @@
 name AJAIRAGUL
-  CGPA:7.99
+CGPA:7.99
 Age:23
+sex - male
